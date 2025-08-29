@@ -2,7 +2,7 @@
   "name": "San Andreas",
   "symbol": "Franklin",
   "description": "The official San Andreas token on Solana...",
-  "image": "https://raw.githubusercontent.com/1Mantis-shrimp/franklin/refs/heads/main/franklin.png?token=GHSAT0AAAAAADIYJXMCOYXKZRJYUI6DJX2A2FRJGAA",
+  "image": "https://raw.githubusercontent.com/1Mantis-shrimp/franklin/main/franklin.png",
   "external_url": "https://github.com/1Mantis-shrimp/franklin",
   "x": "@1mantisshrimp"
 }
